@@ -8,9 +8,8 @@ export default class extends Component {
       <Fragment>
         <Header />
         <Exercises />
-        <Exercises />
-        <Exercises />
         <Footer />
+        <Exercises />
       </Fragment>
     );
   }
